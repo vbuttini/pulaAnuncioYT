@@ -1,18 +1,18 @@
-# pulaAnuncioYT
+# Pula anúncios do youtube
 Este simples script identifica o botão de pular anuncio no youtube, clicando nele
 
-Para criar um enviroment e instalar os requerimentos:
+### Baixe sempre a última versão do projeto.
 
-Baixe sempre a última versão do projeto.
+# Para criar um enviroment e instalar os requerimentos:
 
-#Criando e ativando o enviroment
+### Criando e ativando o enviroment
 Abra o terminal na pasta do projeto e digite: python -m venv venv
 Após, digite: venv/Scripts/activate
 
-#Instalando os requerimentos
+### Instalando os requerimentos
 Digite no terminal na pasta do projeto: pip install -r requirements.txt
 
-#Funcionamento:
+### Funcionamento:
 O script identifica o botão de pular anúncio na tela, move o mouse até ele e clica.
 Portando, a tela do youtube deve estar ativa, de modo que seja visível.
 
